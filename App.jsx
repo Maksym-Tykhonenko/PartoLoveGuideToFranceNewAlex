@@ -390,7 +390,7 @@ const App = () => {
         appsFlyer.initSdk(
           {
             devKey: 'T9h7tLijQjDdZXpvgxh44L',
-            appId: '6752986808',
+            appId: '6751647624',
             isDebug: true,
             onInstallConversionDataListener: true,
             onDeepLinkListener: true,
@@ -422,7 +422,7 @@ const App = () => {
         appsFlyer.initSdk(
           {
             devKey: 'T9h7tLijQjDdZXpvgxh44L',
-            appId: '6752986808',
+            appId: '6751647624',
             isDebug: true,
             onInstallConversionDataListener: true,
             onDeepLinkListener: true,
